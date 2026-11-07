@@ -1,156 +1,172 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Fagner's GitHub Banner">
-</p><h1 align="center">Hi, I'm Fagner! 👋</h1><p align="center">
-  <strong>Software Development • Robotics • Innovation</strong>
-</p><p align="center">
-  <a href="https://github.com/Fagnerzuk">GitHub</a> •
-  <a href="https://www.instagram.com/fagner.spf">Instagram</a> •
-  <a href="https://www.linkedin.com/in/fagner-silva-38482436a">LinkedIn</a>
-</p>---
+  <img src="assets/banner.png" width="100%" alt="Fagner's GitHub Banner" />
+</p>Hi, I'm Fagner 👋
 
-About Me
+Software Development • Robotics • Innovation
 
-I'm a technology enthusiast interested in building software, exploring new technologies, and developing solutions that connect software and hardware.
+I'm a technology enthusiast and developer interested in building practical solutions through software engineering, artificial intelligence, and embedded systems.
 
-My main areas of interest include:
+I enjoy exploring how technology can solve real-world problems — from web applications for local businesses to assistive technology and hardware-based systems.
 
-- Software Engineering and Backend Development
-- Artificial Intelligence and emerging technologies
-- Robotics and Embedded Systems
-- Digital solutions for local businesses
-- Continuous learning and problem-solving
+---
 
-I enjoy learning by building practical projects and exploring how technology can solve real-world problems.
+👨‍💻 About Me
 
-Technologies & Tools
+- 💻 Interested in Software Engineering, Backend Development, and Artificial Intelligence.
+- 🤖 Exploring Robotics, Embedded Systems, and Electronics.
+- 🌐 Building web solutions focused on usability and real-world applications.
+- 🧠 Learning new technologies and improving my problem-solving skills.
+- 🚀 Interested in developing technology that makes a meaningful difference.
 
-Programming Languages
+My approach is based on continuous learning, experimentation, and practical development.
 
-"HTML5" (https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-"CSS3" (https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-"Python" (https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-"Rust" (https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+---
 
-Hardware & Embedded Systems
+🛠️ Technologies & Tools
 
-"Arduino" (https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-"ESP32" (https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
-"Processing" (https://img.shields.io/badge/Processing-006699?style=flat&logo=processingfoundation&logoColor=white)
+Programming & Web Development
 
-Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+</p>Hardware & Engineering
 
-"Git" (https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-"Lovable" (https://img.shields.io/badge/Lovable-FF4F8B?style=flat)
-"ChatGPT" (https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai&logoColor=white)
-"Claude" (https://img.shields.io/badge/Claude-D97757?style=flat)
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white" alt="Processing" />
+</p>Development Tools & AI
 
-Featured Projects
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Lovable-FF4F8B?style=for-the-badge&logo=lovable&logoColor=white" alt="Lovable" />
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</p>I use AI tools as development assistants for research, planning, implementation, debugging, and improving solutions — while continuously developing my own technical skills.
 
-1. ParkinSense
+---
 
-Low-cost assistive glove prototype for Parkinson-related hand tremors.
+🚀 Featured Projects
 
-ParkinSense is an academic robotics project designed to detect involuntary hand tremors and activate vibratory motors as a potential sensory counter-stimulation approach.
+🦾 ParkinSense — Assistive Technology
+
+An intelligent glove prototype designed to detect involuntary hand tremors and respond through vibrational stimulation.
 
 <p align="center">
-  <img src="assets/parkinsense.gif" width="85%" alt="ParkinSense demonstration">
-</p>Technologies and components:
+  <img src="assets/parkinsense.gif" width="85%" alt="ParkinSense demonstration" />
+</p>Developed as an academic team project for the 2026 National Robotics Exhibition (Mostra Nacional de Robótica).
 
-- ESP32 and MPU6050
-- Five vibration motors and LEDs
-- Goertzel frequency detection algorithm
-- Signal processing with Hann window
-- Serial telemetry and 3D visualization with Processing
+Key features and technologies:
+
+- ESP32-based embedded system.
+- MPU6050 accelerometer and gyroscope.
+- Five vibration motors and individual LED indicators.
+- Tremor signal analysis using the Goertzel algorithm.
+- Hann windowing and frequency-based detection.
+- State machine controlling measurement and stimulation cycles.
+- Real-time serial telemetry and 3D visualization using Processing.
+
+Important: This is an academic prototype. Its detection and response behavior was evaluated using synthetic signals and simulation. Tremor reduction has not been measured, and the device has not undergone clinical validation or testing on people with Parkinson's disease.
 
 Team: Fagner da Silva Pereira Filho, Kauhan Rodrigues de Melo, and Miguel Macedo do Nascimento.
 
-The firmware was implemented by Kauhan Rodrigues de Melo with assistance from Claude. The project was developed collaboratively by the team.
-
-Note: This is an academic prototype, not a medical device. Tremor reduction has not been clinically validated or measured.
-
-"View Repository" (https://github.com/dev-KauhanMelo/parkinsense-luva)
+"View ParkinSense Repository" (https://github.com/dev-KauhanMelo/parkinsense-luva)
 
 ---
 
-2. Electronic Voting Simulator
+🗳️ Electronic Voting Simulator
 
-An unofficial electoral polling and simulation application for Pernambuco, Brazil.
-
-A browser-based voting simulator featuring sequential candidate selection and an administrative dashboard for vote counting and analysis.
+A non-official election polling and vote-counting application designed to simulate a complete voting process.
 
 <p align="center">
-  <img src="assets/electronic-voting.gif" width="85%" alt="Electronic Voting Simulator demonstration">
-</p>Features:
+  <img src="assets/electronic-voting.gif" width="85%" alt="Electronic Voting Simulator demonstration" />
+</p>Developed for a simulated electoral poll involving candidates from Pernambuco and Brazil.
 
-- Sequential voting for multiple electoral positions
-- Blank and null vote options
-- Duplicate voter-number prevention on each device
-- Candidate rankings and vote percentages
-- Party statistics and turnout information
-- CSV import and export for manual consolidation
+Key features:
 
-Technologies: HTML, CSS, JavaScript, Python, and LocalStorage.
+- Sequential voting interface for multiple electoral positions.
+- Support for blank and null votes.
+- Voter number validation and duplicate prevention within each device.
+- Results dashboard with candidate rankings and percentages.
+- Party-based vote statistics.
+- CSV data export and import between devices.
+- Candidate data generation using Python scripts.
 
-Note: This is a non-official simulation. Voting data is stored locally on each device and consolidated manually through CSV files.
+Technologies: HTML, CSS, JavaScript, Python, and browser LocalStorage.
 
-"View Repository" (https://github.com/Fagnerzuk/urnaeletronica)
+Note: This is an educational polling simulator, not an official election system. Data is stored locally on each device; synchronization between devices requires manual export and import.
+
+"View Electronic Voting Repository" (https://github.com/Fagnerzuk/urnaeletronica)
 
 ---
 
-Local Business Digital Solutions
+🌐 Local Business Digital Solutions
 
-I also develop digital solutions to help local businesses establish and improve their online presence.
-
-<p align="center">
-  <img src="assets/business-solutions.gif" width="85%" alt="Local Business Digital Solutions demonstration">
-</p>Solutions include:
-
-- Custom landing pages
-- Digital product and service catalogs
-- WhatsApp integration for customer communication
-- Responsive website interfaces
-- Online presence solutions for small businesses
-
-Examples of work:
-
-- "Lord Barbearia" (https://github.com/Fagnerzuk/lord-barbearia-premium)
-- "Flor do Bairro" (https://github.com/Fagnerzuk/flordobairro)
-- "Pingo do Céu Burguer" (https://github.com/Fagnerzuk/pingo-do-ceu-burguer)
-- "Gastrobar" (https://github.com/Fagnerzuk/gastrobar)
-
-Current Goals
-
-- Deepen my knowledge of Software Engineering.
-- Improve programming and problem-solving skills.
-- Develop stronger backend development skills with Rust.
-- Study databases, server architecture, and distributed systems.
-- Explore robotics and embedded systems.
-- Build technology with practical, real-world impact.
-- Prepare for international academic and professional opportunities.
-
-GitHub Statistics
+I also develop digital presence solutions for small businesses, helping them improve their online visibility and communication with customers.
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Fagnerzuk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fagnerzuk&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages">
+  <img src="assets/business-solutions.gif" width="85%" alt="Local Business Digital Solutions demonstration" />
+</p>My work includes:
+
+- Landing Pages: Responsive websites presenting businesses, services, and contact information.
+- Digital Catalogs: Organized product and service displays.
+- WhatsApp Integration: Direct communication, customer inquiries, and business contact.
+- Custom Web Experiences: Interfaces designed around each business's needs.
+
+Technologies and tools: HTML, CSS, JavaScript, Lovable, ChatGPT, and Claude.
+
+Selected Work
+
+Business| Digital Solution
+"Lord Barbearia" (https://github.com/Fagnerzuk/lord-barbearia-premium)| Barbershop digital presence
+"Flor do Bairro" (https://github.com/Fagnerzuk/flordobairro)| Local business website
+"Pingo do Céu Burguer" (https://github.com/Fagnerzuk/pingo-do-ceu-burguer)| Restaurant digital presence
+"Gastrobar" (https://github.com/Fagnerzuk/gastrobar)| Business web presence
+
+These projects reflect my interest in using technology to solve practical problems and create useful digital experiences.
+
+---
+
+🎯 Current Goals
+
+- Strengthen my foundations in Software Engineering.
+- Develop deeper knowledge of Rust and backend development.
+- Explore databases, server architecture, and distributed systems.
+- Improve my skills in robotics and embedded programming.
+- Build more advanced projects combining software and hardware.
+- Pursue international academic and professional opportunities.
+
+---
+
+📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fagnerzuk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fagnerzuk&layout=compact&theme=transparent&hide_border=true" alt="Most Used Languages" />
 </p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fagnerzuk&theme=transparent&hide_border=true" alt="GitHub Contribution Streak">
-</p>Let's Connect
+  <img src="https://streak-stats.demolab.com?user=Fagnerzuk&theme=transparent&hide_border=true" alt="GitHub Contribution Streak" />
+</p>---
 
-I'm always interested in learning, sharing ideas, and connecting with people in technology.
+🤝 Let's Connect
+
+I'm always interested in learning, exchanging ideas, and connecting with people passionate about technology and innovation.
 
 <p align="center">
   <a href="https://github.com/Fagnerzuk">
-    <img src="https://img.shields.io/badge/GitHub-Fagnerzuk-181717?style=for-the-badge&logo=github" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-Fagnerzuk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/fagner.spf">
-    <img src="https://img.shields.io/badge/Instagram-fagner.spf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-fagner.spf-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.linkedin.com/in/fagner-silva-38482436a">
-    <img src="https://img.shields.io/badge/LinkedIn-Fagner%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Fagner%20Silva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p><p align="center">
-  <i>Building, learning, and exploring what technology makes possible.</i>
+</p>---
+
+<p align="center">
+  <i>Building, learning, and exploring what's possible through technology.</i>
 </p>
